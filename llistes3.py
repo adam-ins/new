@@ -5,7 +5,6 @@ llIngressos = []
 
 diners = float(input("Quants diners tens?"))
 
-
 while True:
     operacio = input("Vols (i)ngresar o (g)astar?")
     if operacio == "i":
